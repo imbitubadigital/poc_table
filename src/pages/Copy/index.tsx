@@ -272,7 +272,7 @@ export function Copy() {
             // right: 7000,
           }}
         >
-          Highest or longest side: <span>(R)</span> = Right / <span>(L)</span>=
+          Highest or longest side: <span>(R)</span> = Right / <span>(L)</span> =
           Left
         </p>
 
