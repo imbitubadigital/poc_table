@@ -7,9 +7,38 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 `;
+
+export const ContainerTableCopy = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 20px;
+`;
+export const ContainerBtn = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  button {
+    border: 0;
+    background: purple;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 10px;
+    transition: all 0.3s;
+    font-size: 20px;
+    font-weight: bold;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+`;
 export const BoxTable = styled.div`
   padding: 20px;
-  /* background: #ccc; */
+
   position: relative;
 `;
 export const Spave = styled.div`
