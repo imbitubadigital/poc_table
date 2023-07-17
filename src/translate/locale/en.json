@@ -1,0 +1,114 @@
+{
+  "translation": {
+    "title": "Scanometry",
+    "table": {
+      "scanometryTitle": "Scanometry",
+      "anglesTitle": "Femurtibial Angles",
+      "left": "Left",
+      "right": "Right",
+      "diff": "Difference",
+      "axis": "Axis",
+      "thigh": "Thigh",
+      "leg": "Leg",
+      "total": "Total",
+      "femoralUnevenness": "Femoral Uneveness",
+      "ankleUnevenness": "Ankle Uneveness",
+      "mechanicalDegrees": "Mechanical (degrees)",
+      "mechanicalCm": "Mechanical (cm)",
+      "anatomical": "Anatomical",
+      "L": "L",
+      "R": "R",
+      "-": "-",
+      "valgus": "valgus",
+      "varus": "varus"
+    },
+    "legendScany":{
+      "label": "Highest or longest side:",
+      "siglaR": "R",
+      "siglaL": "L",
+      "labelSiglaR": "Right",
+      "labelSiglaL": "Left"
+    },
+    "images":{
+      "left": "Left",
+      "right": "Right"
+    },
+    "btn":{
+      "copy": "Tables Copy"
+    },
+    "legend":{
+      "scanometry": "Scanometry",
+      "other": "Undefined",
+      "mechanicalAxis": "Mechanical Axis",
+      "anatomicalAxis": "Anatomical Axis"
+    },
+    "help": {
+      "title": "HELP",
+      "btnClose": "Close",
+      "paragraph1": "This is a tool to aid the scanometry report, aiming to speed up the report of exams in adult patients and studies without major changes.",
+      "paragraph2": "The points and lines used for measurements are visible in the images. You can click on the images to zoom in on them.",
+      "paragraph3": "If any point has been incorrectly positioned, it is possible to deactivate it by clicking on the colored tabs on the side of the images. The tables will reflect the change immediately.",
+      "paragraph4": "At the end of the analysis, the copy table button allows you to copy and paste the results into the PACS report editor."
+    },
+    "config": {
+      "error": {
+        "empty": "Please fill in a value.",
+        "minValue": "The minimum value is 1000 pixels."
+      },
+      "inputPlaceholder": "Enter a value",
+      "altClose": "Close",
+      "title": "Configure the maximum width of the system's central content below to better match the monitor screen.",
+      "label": "Maximum width in pixels",
+      "btnReset": "Reset",
+      "btnSave": "Save"
+    },
+    "singIn": {
+      "errors": {
+        "emailRequired": "E-mail is required",
+        "emailError": "E-mail is invalid",
+        "passwordRequired": "Password is required"
+      },
+      "input": {
+        "placeholderEmail": "Enter your e-mail",
+        "placeholderPassword": "Enter your password"
+      },
+      "forgot": "Forgot your password?",
+      "btnSubmit": "Submit"
+
+    },
+
+    "login":{
+      "error":{
+        "invalidCredential": "Invalid e-mail and/or password.",
+        "unexpectedError": "Unexpected error. Try again later or contact the developer"
+      }
+    },
+    "exam":{
+      "error":{
+        "notInformedId": {
+          "title": "Attention",
+          "message": "Exam Id not informed"
+        },
+        "unexpectedError": {
+          "title": "Attention",
+          "message": "Unexpected error. Try again later or contact the developer."
+        },
+        "NOT_FOUND": {
+          "title": "Unprocessed exam",
+          "paragraph": "The requested exam has not yet been processed by the system.",
+          "message": "Please wait a few minutes and try again."
+        },
+        "FAILED": {
+          "title": "Requested exam does not meet the criteria.",
+          "paragraph": "The requested exam does not meet the eligibility criteria to be processed by the system.",
+          "label": "Some of these criteria are:",
+          "opt1": "Patients over 18 years old;",
+          "opt2": "Acquisitions in the anteroposterior position;",
+          "opt3": "Patients without bone prostheses and deformities.",
+          "message": "Please carry out a query for another exam."
+        }
+      }
+    }
+  }
+}
+

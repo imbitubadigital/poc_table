@@ -1,0 +1,112 @@
+{
+  "translation": {
+    "title": "Escanometria",
+    "table": {
+      "scanometryTitle": "Escanometria",
+      "anglesTitle": "Ângulos Femorotibiais",
+      "left": "Esquerda",
+      "right": "Direita",
+      "diff": "Diferença",
+      "axis": "Eixo",
+      "thigh": "Coxa",
+      "leg": "Perna",
+      "total": "Total",
+      "femoralUnevenness": "Desnível das cabeças femorais",
+      "ankleUnevenness": "Desnível dos tornozelos",
+      "mechanicalDegrees": "Mecânico (graus)",
+      "mechanicalCm": "Mecânico (cm)",
+      "anatomical": "Anatômico",
+      "L": "E",
+      "R": "D",
+      "-": "-",
+      "valgus": "valgo",
+      "varus": "varo"
+    },
+    "legendScany":{
+      "label": "Lado mais alto ou comprido:",
+      "siglaR": "D",
+      "siglaL": "E",
+      "labelSiglaR": "Direito",
+      "labelSiglaL": "Esquerdo"
+    },
+    "images":{
+      "left": "Esquerda",
+      "right": "Direita"
+    },
+    "btn":{
+      "copy": "Copiar Tabelas"
+    },
+    "legend":{
+      "scanometry": "Escanometria",
+      "other": "Indefinido",
+      "mechanicalAxis": "Eixo Mecânico",
+      "anatomicalAxis": "Eixo Anatômico"
+    },
+    "help": {
+      "title": "AJUDA",
+      "btnClose": "Fechar",
+      "paragraph1": "Esta é uma ferramenta de auxílio ao laudo de escanometria, visando agilizar o laudo de exames em pacientes adultos e estudos sem grandes alterações.",
+      "paragraph2": "Os pontos e retas utilizados para as medições são visíveis nas imagens. É possível clicar nas imagens para obter um zoom aumentado.",
+      "paragraph3": "Caso algum ponto tenha sido posicionado incorretamente é possível desativá-lo clicando nas abas coloridas laterais às imagens. As tabelas irão refletir a alteração imediatamente.",
+      "paragraph4": "Ao fim da análise o botão de copiar tabela permite copiar e colar os resultados no editor de laudos do PACS."
+    },
+    "config": {
+      "error": {
+        "empty": "Por favor preencha um valor.",
+        "minValue": "O valor mínimo é de 1000 pixels."
+      },
+      "inputPlaceholder": "Digite um valor",
+      "altClose": "Fechar",
+      "title": "Configure abaixo a largura máxima do conteúdo central do sistema para uma melhor adequação a tela do monitor.",
+      "label": "Largura máxima em pixel",
+      "btnReset": "Resetar",
+      "btnSave": "Salvar"
+    },
+    "singIn": {
+      "errors": {
+        "emailRequired": "O e-mail é obrigatório",
+        "emailError": "O e-mail é inválido",
+        "passwordRequired": "A senha é obrigatória"
+      },
+      "input": {
+        "placeholderEmail": "Digite seu e-mail",
+        "placeholderPassword": "Digite sua senha"
+      },
+      "forgot": "Esqueceu sua senha?",
+      "btnSubmit": "Entrar"
+    },
+    "login":{
+      "error":{
+        "invalidCredential": "E-mail e/ou senha inválida.",
+        "unexpectedError": "Erro inesperado no sistema. Tente novamente mais tarde ou entre em contato com o desenvolvedor."
+      }
+    },
+    "exam":{
+      "error":{
+        "notInformedId": {
+          "title": "Atenção",
+          "message": "Id do exame não informado"
+        },
+        "unexpectedError": {
+          "title": "Atenção",
+          "message": "Erro inesperado no sistema. Tente novamente mais tarde ou entre em contato com o desenvolvedor."
+        },
+        "NOT_FOUND": {
+          "title": "Exame não processado",
+          "paragraph": "O exame solicitado ainda não foi processado pelo sistema.",
+          "message": "Por favor, aguarde alguns minutos e tente novamente."
+        },
+        "FAILED": {
+          "title": "Exame não atende aos critérios.",
+          "paragraph": "O exame solicitado não atende aos critérios de elegibilidade para ser processado pelo sistema.",
+          "label": "Alguns desses critérios são:",
+          "opt1": "Pacientes maiores de 18 anos;",
+          "opt2": "Aquisições na posição anteroposterior;",
+          "opt3": "Pacientes sem próteses e/ou deformidades ósseas.",
+          "message": "Por favor, realize a consulta para outro exame."
+        }
+      }
+    }
+  }
+}
+
