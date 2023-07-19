@@ -31,7 +31,7 @@ export function Copy() {
                 colSpan={4}
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -45,41 +45,50 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               ></td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label" style={{ fontWeight: 'bold' }}>
-                  <i>Right</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Right
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label" style={{ fontWeight: 'bold' }}>
-                  <i>Left</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Left
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label" style={{ fontWeight: 'bold' }}>
-                  <i>Difference</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Difference
                 </span>
               </td>
             </tr>
@@ -87,18 +96,21 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Thigh</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Thigh
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -107,7 +119,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -116,7 +128,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -127,7 +139,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -138,7 +150,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -147,7 +159,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -156,7 +168,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -167,18 +179,21 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Total</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Total
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -187,7 +202,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -196,7 +211,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -208,7 +223,7 @@ export function Copy() {
                 colSpan={4}
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               ></td>
@@ -218,18 +233,21 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Femoral Uneveness</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Femoral Uneveness
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -241,18 +259,21 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Ankle Uneveness</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Ankle Uneveness
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -289,7 +310,7 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -302,34 +323,43 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Axis</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Axis
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Right</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Right
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Left</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Left
                 </span>
               </td>
             </tr>
@@ -337,18 +367,21 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Mechanical (degrees)</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Mechanical (degrees)
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -357,7 +390,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -368,18 +401,21 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Mechanical (cm)</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Mechanical (cm)
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -388,7 +424,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -399,18 +435,21 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Anatomical</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Anatomical
                 </span>
               </td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
@@ -419,7 +458,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '8px 20px',
+                  padding: '8px 16px',
                   textAlign: 'center',
                 }}
               >
