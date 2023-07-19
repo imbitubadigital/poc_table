@@ -143,8 +143,11 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <i>Leg</i>
+                <span
+                  className="label"
+                  style={{ fontWeight: 'bold', fontStyle: 'italic' }}
+                >
+                  Leg
                 </span>
               </td>
               <td
