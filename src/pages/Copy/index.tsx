@@ -35,9 +35,7 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               >
-                <span className="title">
-                  <b>Scanometry</b>
-                </span>
+                <span className="title">Scanometry</span>
               </th>
             </tr>
           </thead>
@@ -58,8 +56,8 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <b>Right</b>
+                <span className="label" style={{ fontWeight: 'bold' }}>
+                  <i>Right</i>
                 </span>
               </td>
               <td
@@ -69,8 +67,8 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <b>Left</b>
+                <span className="label" style={{ fontWeight: 'bold' }}>
+                  <i>Left</i>
                 </span>
               </td>
               <td
@@ -80,8 +78,8 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               >
-                <span className="label">
-                  <b>Difference</b>
+                <span className="label" style={{ fontWeight: 'bold' }}>
+                  <i>Difference</i>
                 </span>
               </td>
             </tr>
@@ -94,7 +92,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Thigh</b>
+                  <i>Thigh</i>
                 </span>
               </td>
               <td
@@ -134,7 +132,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Leg</b>
+                  <i>Leg</i>
                 </span>
               </td>
               <td
@@ -174,7 +172,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Total</b>
+                  <i>Total</i>
                 </span>
               </td>
               <td
@@ -225,7 +223,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Femoral Uneveness</b>
+                  <i>Femoral Uneveness</i>
                 </span>
               </td>
               <td
@@ -248,7 +246,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Ankle Uneveness</b>
+                  <i>Ankle Uneveness</i>
                 </span>
               </td>
               <td
@@ -309,7 +307,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Axis</b>
+                  <i>Axis</i>
                 </span>
               </td>
               <td
@@ -320,7 +318,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Right</b>
+                  <i>Right</i>
                 </span>
               </td>
               <td
@@ -331,7 +329,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Left</b>
+                  <i>Left</i>
                 </span>
               </td>
             </tr>
@@ -344,7 +342,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Mechanical (degrees)</b>
+                  <i>Mechanical (degrees)</i>
                 </span>
               </td>
               <td
@@ -375,7 +373,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Mechanical (cm)</b>
+                  <i>Mechanical (cm)</i>
                 </span>
               </td>
               <td
@@ -406,7 +404,7 @@ export function Copy() {
                 }}
               >
                 <span className="label">
-                  <b>Anatomical</b>
+                  <i>Anatomical</i>
                 </span>
               </td>
               <td
