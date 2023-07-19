@@ -221,7 +221,7 @@ export function Copy() {
                 <span className={'value'}>0.7 cm (L)</span>
               </td>
             </tr>
-            <tr>
+            {/* <tr>
               <td
                 colSpan={4}
                 style={{
@@ -230,7 +230,7 @@ export function Copy() {
                   textAlign: 'center',
                 }}
               ></td>
-            </tr>
+            </tr> */}
             <tr>
               <td
                 colSpan={3}
