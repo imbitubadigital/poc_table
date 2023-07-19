@@ -31,7 +31,7 @@ export function Copy() {
                 colSpan={4}
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -47,14 +47,14 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               ></td>
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -65,7 +65,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -76,7 +76,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -89,7 +89,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -100,7 +100,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -109,7 +109,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -118,7 +118,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -129,7 +129,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -140,7 +140,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -149,7 +149,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -158,7 +158,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -169,7 +169,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -180,7 +180,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -189,7 +189,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -198,7 +198,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -210,7 +210,7 @@ export function Copy() {
                 colSpan={4}
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               ></td>
@@ -220,7 +220,7 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -231,7 +231,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -243,7 +243,7 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -254,7 +254,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -291,7 +291,7 @@ export function Copy() {
                 colSpan={3}
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -304,7 +304,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -315,7 +315,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -326,7 +326,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -339,7 +339,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -350,7 +350,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -359,7 +359,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -370,7 +370,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -381,7 +381,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -390,7 +390,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -401,7 +401,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -412,7 +412,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
@@ -421,7 +421,7 @@ export function Copy() {
               <td
                 style={{
                   border: '1px solid black',
-                  padding: '16px 20px',
+                  padding: '8px 20px',
                   textAlign: 'center',
                 }}
               >
